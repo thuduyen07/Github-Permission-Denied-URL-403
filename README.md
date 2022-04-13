@@ -68,3 +68,12 @@
         6. Click Add SSH key
                                           
 Now you can push code to Github =)) hurayyyyy
+
+## Reference
+1. [PR issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+2. [Remove remote url](https://www.delftstack.com/howto/git/how-to-remove-a-git-remote-url/)
+3. [The requested URL returned error: 403](https://namespaceit.com/blog/fatal-unable-to-access-the-requested-url-returned-error-403#:~:text=While%20working%20with%20Github%20you%20may%20face%20that%2C,repository%20has%20been%20disabled.%20The%20error%20looks%20like%2C)
+4. [Managing remote repositories](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories)
+5. [Testing your SSH connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection)
+6. [Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+7. [Error: Permission denied (publickey)](https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey#check-that-you-are-connecting-to-the-correct-server)
